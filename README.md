@@ -31,7 +31,7 @@ NAME = example.com
 
 ## Base64 Encode Values gathered above
 ```
-echo -n 'exmaple.com' | openssl base64
+echo -n 'example.com' | openssl base64
 ```
 
 ## secret.yml
