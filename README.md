@@ -121,5 +121,5 @@ spec:
 
 ## Apply Cronjob
 ```
-kubctl -n default -f dynDNS-k3s
+kubctl -n default -f dynDNS-k8s
 ```
