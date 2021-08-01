@@ -123,3 +123,5 @@ spec:
 ```
 kubctl -n default -f dynDNS-k8s
 ```
+
+### Inspired By https://github.com/mirioeggmann/cloudflare-ddns and merged with https://docs.k8s-at-home.com/guides/dyndns/
